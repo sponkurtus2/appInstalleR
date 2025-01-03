@@ -51,6 +51,10 @@ cargo run --release
 appInstalleR --app-file <path_to_app_image>
 ```
 
+## Support me 🤝
+
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/sponkurtus2)
+
 ## How It Works
 
 1. The tool validates that the specified file exists and has the `.AppImage` extension
