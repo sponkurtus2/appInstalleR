@@ -2,6 +2,12 @@
 name = "appInstalleR"
 version = "0.1.0"
 edition = "2021"
+description = "A simple and efficient command-line tool to create desktop entries for AppImage applications on Linux systems."
+repository = "https://github.com/sponkurtus2/appInstalleR"
+authors = ["Carlinux <sponkutus098@gmail.com>"]
+license = "MIT"
+readme = "README.md"
+keywords = ["system", "cli"]
 
 [dependencies]
 clap = { version = "4.5.23", features = ["derive"] }
