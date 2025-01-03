@@ -8,7 +8,7 @@ authors = ["Carlinux <sponkutus098@gmail.com>"]
 license = "MIT"
 readme = "README.md"
 keywords = ["system", "cli"]
-categories = ["System", "Utility", "command-line-utilities"]
+categories = ["command-line-utilities"]
 
 [dependencies]
 clap = { version = "4.5.23", features = ["derive"] }
